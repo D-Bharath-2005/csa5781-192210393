@@ -1,3 +1,5 @@
+1.write a c program for finding the largest element
+
 #include <stdio.h>
 void main()
 {
@@ -12,3 +14,5 @@ largest = Arr[i];   
 }
 printf("The largest element in the array is: %d\n", largest);
 }
+
+
